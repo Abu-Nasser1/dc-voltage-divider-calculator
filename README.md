@@ -93,7 +93,7 @@ Output voltage (Vout):       8.000 V
 Source current:              4.000 mA
 Current through R1:          4.000 mA
 Current through R2:          4.000 mA
-Load current:                0.000 mA
+Load current:                0.000 mA (no load connected)
 Power dissipated by R1:      16.000 mW
 Power dissipated by R2:      32.000 mW
 ```
